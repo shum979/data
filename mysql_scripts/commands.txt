@@ -1,0 +1,6 @@
+#Login into mysql
+mysql -u root -p hadoop
+
+--------------
+#excute and sql file
+source /home/maximus/Inputsets/MySql_Scripts/movie_data.sql
